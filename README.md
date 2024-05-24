@@ -1,2 +1,3 @@
-# redesigned-giggle
-data structures &amp; algorithms
+# Data Structures and Algorithms
+
+My implementation and notes for reference.
